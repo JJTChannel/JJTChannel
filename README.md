@@ -6,11 +6,17 @@
 
 [![Imyour Jaruwit#8086](https://discord.c99.nl/widget/theme-4/750677078986195003.png)](https://discord.c99.nl/)
 
-```python
-status = """
-Single=true
-Age=12
+```lua
+status = {
+Single=true,
+Age=12,
 Name="Jaruwit"
-"""
-print(status)
+}
+languges = {
+lua
+html
+node.js
+python
+php
+}
 ```
