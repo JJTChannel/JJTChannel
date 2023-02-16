@@ -8,7 +8,7 @@
 
 ```lua
 status = {
-Single=true,
+Single=false,
 Age=12,
 Name="Jaruwit"
 }
